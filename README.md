@@ -9,7 +9,7 @@ The interesting part is what happens when something goes wrong. Downloads can br
 Requirements: **Node.js 22.17+** (24 recommended), **FFmpeg and FFprobe** on PATH. The demo needs an FFmpeg build with `libx264` and `aac` encoders. On Ubuntu, install the media tools with `sudo apt-get install ffmpeg`.
 
 ```bash
-git clone https://github.com/ella4moon/resilient-media-pipeline.git
+git clone https://github.com/dirtySnowman-I/resilient-media-pipeline.git
 cd resilient-media-pipeline
 npm ci
 npm run demo
